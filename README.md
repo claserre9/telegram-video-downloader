@@ -24,7 +24,7 @@ To install Telegram Video Downloader, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/telegram-video-downloader.git
+   git clone https://github.com/claserre9/telegram-video-downloader.git
    ```
 2. Navigate to the project directory:
    ```
