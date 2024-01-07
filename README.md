@@ -2,7 +2,12 @@
 # Telegram Video Downloader
 
 ## Introduction
-This project is a Telegram Video Downloader tool, designed to help users download videos from Telegram channels efficiently. It supports both public and private channels, provided that the user has appropriate access permissions.
+This project is a Telegram Video Downloader tool, designed to help users download videos from Telegram channels efficiently. 
+It is particularly useful for channels that do not provide direct access to download media. The tool supports both public and private channels, provided that the user has appropriate access permissions.
+
+## Key Benefit
+Bypass Media Download Restrictions: One of the key features of this tool is its ability to download videos from channels 
+that have restrictions on direct media downloads. This functionality extends the accessibility of content, making it a valuable asset for users who need access to these videos for various legitimate purposes.
 
 ## Features
 - Download videos from any Telegram channel (public or private).
